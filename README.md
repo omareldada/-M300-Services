@@ -15,6 +15,6 @@
 	git push : Lokales Git auf Github synchronisieren
 ## Mark Down
 ## Systemsicherheit
-## Lernschritte:
+## Lernschritte
 	Momentan habe ich einiges über Vagrant gelernt. Ich finde es momentan einfach einbisschen schwierig durchzukommen.
-	Meistens bin ich hintendrinnen und muss mich beeilen
+	Meistens bin ich hintendrinnen und muss mich beeilen.
